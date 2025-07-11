@@ -1,0 +1,12 @@
+# Ignore Poetry virtual environment folder
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VSCode settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
